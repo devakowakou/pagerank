@@ -20,7 +20,7 @@ Ce projet implémente deux méthodes pour calculer le PageRank :
 
 ```bash
 # Cloner le repository
-git clone <votre-repo>
+git clone https://github.com/devakowakou/pagerank
 cd pagerank
 
 # Exécuter avec un corpus de pages web
