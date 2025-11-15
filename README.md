@@ -100,7 +100,7 @@ L'algorithme PageRank est basé sur le modèle du "surfeur aléatoire" :
 - Ou saute à une page aléatoire avec probabilité `1-d`
 - Le PageRank d'une page est la probabilité stationnaire que le surfeur s'y trouve
 
-## 👨‍💻 Auteur
+## 👨‍💻 Auteur @devakowakou
 
 Développé dans le cadre du cours d'Intelligence Artificielle.
 
